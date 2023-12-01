@@ -1,3 +1,5 @@
+#weather prediction
+
 Simple Weather Prediction with Ridge Regression
 In my first machine learning project, I used Ridge Regression, a type of linear regression, to predict weather conditions. The model considers features like precipitation, temperature, and more.
 
